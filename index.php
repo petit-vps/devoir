@@ -10,6 +10,7 @@ if(isset($_GET['com'])){
 }
 ?>
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
