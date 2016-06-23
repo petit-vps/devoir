@@ -1,0 +1,57 @@
+#red{
+    color:red;
+}
+
+#blue{
+    color:blue;
+}
+
+.test{
+    color:green;
+
+}
+
+p{
+    border:3px solid black;
+    width: 700px;
+    height:100px;
+    margin:10px;
+}
+.page{
+    height: 100vh;
+}
+
+#content1 {
+  background-image: url("./../../image/grey.png") ;
+  background-repeat:no-repeat;
+  background-size: fill;
+
+  margin-top: 50px;
+}
+
+.formContent{
+	background-color:#fff;
+	border: 1px #ddd solid;
+	border-radius: 4px 4px 0 0;
+	box-shadow:none;
+	margin-right:0;
+	margin-left:0;
+	margin-top:50px;
+	padding:25px
+}
+.cpt{
+	border: #ddd 1px solid;
+	border-radius:3px;
+}
+.cptCtnt{
+	padding:10px;
+	font-size:10px;
+}
+
+.imgRound{
+background-color:#aaa;
+}
+
+.imgCircle{
+
+}
